@@ -12,5 +12,74 @@
 			"id": 3,
 			"name": "Matchboxes"
 		}
+	],
+	"users": [
+		{
+			"id": 1,
+			"name": "Mr. Kelley Bode",
+			"email": "reagan.gibson@green.net"
+		},
+		{
+			"id": 2,
+			"name": "Mr. Katherine Jakubowski",
+			"email": "alana_wolf@schusterdubuque.info"
+		},
+		{
+			"id": 3,
+			"name": "Elisha Barton",
+			"email": "ernie.spencer@lueilwitz.com"
+		},
+		{
+			"id": 4,
+			"name": "Daron Shields",
+			"email": "alva.homenick@will.org"
+		},
+		{
+			"id": 5,
+			"name": "Chasity Gusikowski",
+			"email": "hailee@keebler.org"
+		}
+	],
+	"albums": [
+		{
+			"id": 1,
+			"title": "Comfortably Numb",
+			"album": "25",
+			"band": "The Who",
+			"genre": "Hip Hop",
+			"date": 2022
+		},
+		{
+			"id": 2,
+			"title": "Fire",
+			"album": "Beat It",
+			"band": "Soundgarden",
+			"genre": "Stage And Screen",
+			"date": 2022
+		},
+		{
+			"id": 3,
+			"title": "Are You Gonna Be My Girl",
+			"album": "21",
+			"band": "Orbital",
+			"genre": "Blues",
+			"date": 2022
+		},
+		{
+			"id": 4,
+			"title": "Here Comes The Sun",
+			"album": "Dookie",
+			"band": "King Crimson",
+			"genre": "Electronic",
+			"date": 2022
+		},
+		{
+			"id": 5,
+			"title": "Ohio",
+			"album": "Thriller",
+			"band": "Little Feat",
+			"genre": "Latin",
+			"date": 2022
+		}
 	]
 }
