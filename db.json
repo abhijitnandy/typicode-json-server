@@ -1,0 +1,16 @@
+{
+	"hobbies": [
+		{
+			"id": 1,
+			"name": "Stamps"
+		},
+		{
+			"id": 2,
+			"name": "Coins"
+		},
+		{
+			"id": 3,
+			"name": "Matchboxes"
+		}
+	]
+}
