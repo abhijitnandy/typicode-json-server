@@ -43,43 +43,43 @@
 	"albums": [
 		{
 			"id": 1,
-			"title": "Comfortably Numb",
-			"album": "25",
-			"band": "The Who",
-			"genre": "Hip Hop",
-			"date": 2022
+			"title": "Layla",
+			"album": "The Joshua Tree",
+			"band": "Harold Melvin and the Blue Notes",
+			"genre": "Country",
+			"date": 1957
 		},
 		{
 			"id": 2,
-			"title": "Fire",
-			"album": "Beat It",
-			"band": "Soundgarden",
+			"title": "Stairway to Heaven",
+			"album": "Saturday Night Fever",
+			"band": "Cream",
 			"genre": "Stage And Screen",
-			"date": 2022
+			"date": 1957
 		},
 		{
 			"id": 3,
-			"title": "Are You Gonna Be My Girl",
-			"album": "21",
-			"band": "Orbital",
-			"genre": "Blues",
-			"date": 2022
+			"title": "Sultans of Swing",
+			"album": "Songs About Jane",
+			"band": "King Crimson",
+			"genre": "Jazz",
+			"date": 1971
 		},
 		{
 			"id": 4,
-			"title": "Here Comes The Sun",
-			"album": "Dookie",
-			"band": "King Crimson",
-			"genre": "Electronic",
-			"date": 2022
+			"title": "Fortunate Son",
+			"album": "Unplugged",
+			"band": "Bruce Springsteen & The E Street Band",
+			"genre": "Pop",
+			"date": 1978
 		},
 		{
 			"id": 5,
-			"title": "Ohio",
-			"album": "Thriller",
-			"band": "Little Feat",
-			"genre": "Latin",
-			"date": 2022
+			"title": "Dream On",
+			"album": "Spice",
+			"band": "Cream",
+			"genre": "Funk",
+			"date": 1994
 		}
 	]
 }
