@@ -18,31 +18,36 @@
 			"id": 1,
 			"name": "Mr. Kelley Bode",
 			"email": "reagan.gibson@green.net",
-			"age": 32
+			"age": 32,
+			"yearOfBirth": 1990
 		},
 		{
 			"id": 2,
 			"name": "Mr. Katherine Jakubowski",
 			"email": "alana_wolf@schusterdubuque.info",
-			"age": 57
+			"age": 57,
+			"yearOfBirth": 1965
 		},
 		{
 			"id": 3,
 			"name": "Elisha Barton",
 			"email": "ernie.spencer@lueilwitz.com",
-			"age": 28
+			"age": 28,
+			"yearOfBirth": 1994
 		},
 		{
 			"id": 4,
 			"name": "Daron Shields",
 			"email": "alva.homenick@will.org",
-			"age": 22
+			"age": 22,
+			"yearOfBirth": 1990
 		},
 		{
 			"id": 5,
 			"name": "Chasity Gusikowski",
 			"email": "hailee@keebler.org",
-			"age": 45
+			"age": 45,
+			"yearOfBirth": 1977
 		}
 	],
 	"albums": [
