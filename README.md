@@ -38,3 +38,15 @@ https://my-json-server.typicode.com/abhijitnandy/typicode-json-server/albums
 	"date": 2022
 }
 ```
+
+
+https://my-json-server.typicode.com/abhijitnandy/typicode-json-server/profile
+
+```
+{
+	"username": "abhijit",
+	"first_name": "abhijijt",
+	"last_name": "nandy"
+}
+	```
+
