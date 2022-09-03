@@ -48,5 +48,4 @@ https://my-json-server.typicode.com/abhijitnandy/typicode-json-server/profile
 	"first_name": "abhijijt",
 	"last_name": "nandy"
 }
-	```
-
+```
